@@ -16,8 +16,6 @@ Thanks you for reading.
 
 <img align="right" src="https://lanyard.cnrad.dev/api/460311504827187200?theme=dark&idleMessage=Lagi%20Bernafas%20Ges...&hideDiscrim=true" alt="Discord Status">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tanuki33&show_icons=true&theme=radical&count_private=true">
-
 ## Experience
 - Programming Languages
   - C#
@@ -25,6 +23,8 @@ Thanks you for reading.
   - JavaScript
   - Python
 - A tiny bity Reverse engineering
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tanuki33&show_icons=true&theme=radical&count_private=true">
 
 ## I Have
 - [YouTube](https://www.youtube.com/c/TanukiTan/)
